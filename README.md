@@ -1,4 +1,19 @@
-### Hi there 👋
+# Hello, guerro there 👋
+I'm a C# game developer, with high knowledge of ECS and Unity.
+I also worked on some gamemodes for ShootMania and TrackMania with the Maniascript language.
+
+## Current Projects
+### GameHost
+ECS Framework with focus on high performance and domain application threading  
+https://github.com/guerro323/GameHost
+
+### PataNext
+Patapon fangame  
+https://github.com/patanext-project
+### Quadrum
+Patapon-like game
+### Stormium
+Arena FPS
 
 <!--
 **guerro323/guerro323** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
