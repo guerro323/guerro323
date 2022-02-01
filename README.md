@@ -4,8 +4,12 @@ I also worked on some gamemodes for ShootMania and TrackMania with the Maniascri
 
 ## Current Projects
 ### GameHost
-ECS Framework with focus on high performance and domain application threading  
+ECS Hosting Framework with focus on high performance and domain application threading (with modules support!)
 https://github.com/guerro323/GameHost
+
+### revecs
+Custom ECS made for high modularity and performance
+https://github.com/guerro323/revecs
 
 ### PataNext
 Patapon fangame  
